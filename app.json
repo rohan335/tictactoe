@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.rohandesai335.tictactoeminmax"
     },
     "web": {
       "favicon": "./assets/favicon.png"
